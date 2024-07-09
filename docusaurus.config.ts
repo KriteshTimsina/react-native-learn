@@ -5,7 +5,7 @@ import type * as Preset from "@docusaurus/preset-classic";
 const config: Config = {
   title: "Learn Reactnative",
   tagline: "Go-to libs for react native",
-  favicon: "img/favicon.ico",
+  favicon: "img/favicon.png",
 
   // Set the production url of your site here
   url: "https://kriteshtimsina.github.io",
@@ -61,7 +61,7 @@ const config: Config = {
       title: "My Site",
       logo: {
         alt: "My Site Logo",
-        src: "img/logo.png",
+        src: "img/logo.png/",
       },
       items: [
         {
